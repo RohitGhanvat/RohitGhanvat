@@ -1,10 +1,10 @@
 ### Hi Developer👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www)
+[![Linkedin Badge](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www)
 (https://www.linkedin.com/in/rohit-ghanvat-5aa598228/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18257028/rohit-ghanvat)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.rohit)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Rohit-yellow)](https://stackoverflow.com/users/18257028/rohit-ghanvat)
 
 I'm
 Full Stack Develpor
